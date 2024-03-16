@@ -1,0 +1,11 @@
+# Local Netlify folder
+.netlify
+
+# Environment Variables
+.env
+
+# Jetbrains
+.idea
+
+# node_modules
+node_modules/
